@@ -189,7 +189,7 @@ class ImageUploadView(APIView):
 # #     def post(self, request):
 # #         input = request.data['input']
 # #         openai = OpenAI(
-# #             api_key='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',
+# #             api_key='',
 # #         )
 # #         try:
 # #             input_text = input
